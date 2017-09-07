@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "my-node",
+        "scope": null,
+        "escapedName": "my-node",
+        "name": "my-node",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\XPS 8700\\AppData\\Roaming\\npm\\node_modules"
+    ]
+  ],
+  "_from": "my-node@latest",
+  "_id": "my-node@1.0.0",
+  "_inCache": true,
+  "_location": "/my-node",
+  "_nodeVersion": "6.11.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/my-node-1.0.0.tgz_1504820117429_0.31136252847500145"
+  },
+  "_npmUser": {
+    "name": "pinksjas",
+    "email": "jays_on1@hotmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "my-node",
+    "scope": null,
+    "escapedName": "my-node",
+    "name": "my-node",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/my-node/-/my-node-1.0.0.tgz",
+  "_shasum": "c294cbdc9c287f0c458b3ab13d9cc831d093a536",
+  "_shrinkwrap": null,
+  "_spec": "my-node",
+  "_where": "C:\\Users\\XPS 8700\\AppData\\Roaming\\npm\\node_modules",
+  "author": {
+    "name": "Jason Pinkston"
+  },
+  "bugs": {
+    "url": "https://github.com/pinksjas/node-module/issues"
+  },
+  "dependencies": {},
+  "description": "test node creation for Tutorialpoint course on node",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c294cbdc9c287f0c458b3ab13d9cc831d093a536",
+    "tarball": "https://registry.npmjs.org/my-node/-/my-node-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/pinksjas/node-module#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "pinksjas",
+      "email": "jays_on1@hotmail.com"
+    }
+  ],
+  "name": "my-node",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinksjas/node-module.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
